@@ -1,0 +1,16 @@
+body {
+	font-size: 11px;
+	font-family: Segoe UI, Tahoma, Arial;
+	padding: 10px;
+	color: #000000;
+	margin: 0px;
+	border: 0px;
+	background: transparent url(news.png) no-repeat;
+	background-attachment: fixed;
+}
+.header {
+	font-size: 120%;
+}
+.content {
+	padding: 5px;
+}
